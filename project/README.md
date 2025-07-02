@@ -4,12 +4,11 @@ A comprehensive dental center management dashboard built for ENTNT Technical Ass
 
 ## 🚀 Deployed Application
 
-**Live Demo:** [https://teal-churros-fe0408.netlify.app](https://teal-churros-fe0408.netlify.app)
+**Live Demo:** https://dental-center-management123.netlify.app/
 
 ## 📂 GitHub Repository
 
-**Repository:** [https://github.com/Mansaram12/dental-center-management](https://github.com/Mansaram12/dental-center-management)
-
+**Repository:** https://github.com/Mansaram12/dental-center-management-
 ## 📋 Demo Credentials
 
 ### Admin (Dentist) Access
@@ -326,20 +325,3 @@ No environment variables required - the application uses localStorage for data p
 3. Update documentation if needed
 4. Submit pull request with description
 5. Code review and merge
-
-## 📞 Support & Contact
-
-For technical questions or issues related to this ENTNT assignment:
-- **Email:** hr@entnt.in
-- **Assignment Deadline:** Monday, 8 July
-
-## 📄 License
-
-This project is developed as part of the ENTNT Technical Assignment and is for evaluation purposes only.
-
----
-
-**Developed for:** ENTNT Technical Assignment  
-**Frontend Developer Role Application**  
-**Technology Stack:** React + TypeScript + Tailwind CSS + Vite  
-**Deployment:** Netlify
