@@ -8,8 +8,7 @@ A comprehensive dental center management dashboard built for ENTNT Technical Ass
 
 ## 📂 GitHub Repository:
 
-**Repository:**  https://github.com/Mansaram12/dental-center-management-dashboard/edit/main/README.md
-
+**Repository:**  https://github.com/Mansaram12/dental-center-management-dashboard
 ## 📋 Demo Credentials
 
 ### Admin (Dentist) Access
